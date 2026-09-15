@@ -1,0 +1,3 @@
+C:/Users/franc/Documents/Personal-Projects/cmake-zip-tutorial/Step0/CMakeFiles/hello.dir
+C:/Users/franc/Documents/Personal-Projects/cmake-zip-tutorial/Step0/CMakeFiles/edit_cache.dir
+C:/Users/franc/Documents/Personal-Projects/cmake-zip-tutorial/Step0/CMakeFiles/rebuild_cache.dir
