@@ -1,8 +1,11 @@
 #include <cstdio>
+#include <iostream>
 
 int main()
 {
   std::printf("Hello World\n");
+
+  std::cout << "Hello, World\n" << std::endl;
 }
 
 /*
